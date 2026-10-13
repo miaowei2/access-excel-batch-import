@@ -1,0 +1,9 @@
+{
+    "[vb]": {
+        "files.encoding": "gbk"
+    },
+    "files.associations": {
+        "*.bas": "vb",
+        "*.cls": "vb"
+    }
+}

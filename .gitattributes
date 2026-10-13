@@ -1,0 +1,3 @@
+# GBK-encoded VBA modules must be stored byte-for-byte
+*.bas -text
+*.cls -text
