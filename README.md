@@ -12,6 +12,16 @@
 
 纯 VBA 实现的 Access 通用 Excel 批量导入工具。运行一个过程即可自动生成导入窗体，按“目标表 → Excel 文件 → 工作表 → 字段映射 → 开始导入”的流程，把 Excel 数据批量追加到 Access 本地表、Access 后端链接表或 SQL Server ODBC 链接表。
 
+### 界面预览
+
+中文界面（已选择 Excel 文件并完成字段映射）：
+
+![中文界面](docs/images/import-form-zh.png)
+
+默认英文界面（点击页脚“中文”按钮切换）：
+
+![English UI](docs/images/import-form-en.png)
+
 ### 功能特点
 
 - 支持 `.xls`、`.xlsx`、`.xlsm`、`.xlsb`；只读打开，不更新外部链接，禁用源工作簿宏。
@@ -176,6 +186,16 @@ EI_SetSqlServerConnection "客户", "Provider=MSOLEDBSQL;Data Source=YOUR_SERVER
 ### Overview
 
 A pure-VBA, generic Excel batch import tool for Microsoft Access. Run one procedure to generate the import forms, then follow the familiar flow **target table → Excel file → worksheet → field mapping → import** to append Excel data into a local Access table, a linked Access back-end table, or a SQL Server table linked through ODBC.
+
+### Screenshots
+
+Default English UI (switch language with the footer button):
+
+![English UI](docs/images/import-form-en.png)
+
+Chinese UI (Excel file chosen and fields mapped):
+
+![Chinese UI](docs/images/import-form-zh.png)
 
 ### Features
 
