@@ -177,6 +177,20 @@ EI_SetSqlServerConnection "客户", "Provider=MSOLEDBSQL;Data Source=YOUR_SERVER
 
 [MIT License](LICENSE)
 
+### 作者
+
+缪炜（will miao），微软最有价值专家（MVP），公众号「Access开发」作者，长期从事企业数字化解决方案开发与培训，熟悉 Access、VBA、C#、JavaScript 和 SQL。
+
+微软官方 MVP 主页：[缪炜](https://mvp.microsoft.com/zh-CN/MVP/profile/15c78eb8-1d9d-42de-9c15-afba24ec931d)
+
+### 联系方式
+
+- GitHub：[@miaowei2](https://github.com/miaowei2)
+- Email：[will.miao@edonsoft.com](mailto:will.miao@edonsoft.com)
+- 公众号：Access开发
+- B站：[@Access开发易登软件](https://space.bilibili.com/10580232)
+- 公司网站：[www.edonsoft.com](https://www.edonsoft.com)
+
 ---
 
 <a id="english"></a>
@@ -351,3 +365,17 @@ The connection string is kept only in memory for the current VBA session and is 
 ### License
 
 [MIT License](LICENSE)
+
+### Author
+
+Wei Miao (will miao) is a Microsoft MVP and the author of the "Access开发" public account. He has extensive experience in enterprise software development and training, with expertise in Access, VBA, C#, JavaScript, and SQL.
+
+Microsoft MVP profile: [Wei Miao](https://mvp.microsoft.com/zh-CN/MVP/profile/15c78eb8-1d9d-42de-9c15-afba24ec931d)
+
+### Contact
+
+- GitHub: [@miaowei2](https://github.com/miaowei2)
+- Email: [will.miao@edonsoft.com](mailto:will.miao@edonsoft.com)
+- WeChat public account: Access开发
+- Bilibili: [Access开发易登软件](https://space.bilibili.com/10580232)
+- Website: [www.edonsoft.com](https://www.edonsoft.com)
